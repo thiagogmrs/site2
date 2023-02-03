@@ -1,0 +1,14 @@
+/*global*/
+@import url(./global/global.css);
+
+/*introducao*/
+@import url(./introducao/introducao.css);
+
+/*formulario*/
+@import url(./formulario/formulario.css);
+
+/*vantagens*/
+@import url(./vantagens/vantagens.css);
+
+/*depoimentos*/
+@import url(./depoimentos/depoimentos.css);
